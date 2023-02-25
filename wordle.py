@@ -9,7 +9,7 @@ def welcome_screen():
     print("- If a letter is correct, it will show green")
     print("- If a letter is wrong, it will show grey")
     print("- A correct letter, but in the wrong place shows yellow")
-    print("Have fun!")
+    print("Have fun!!")
     return
 welcome_screen()
 
